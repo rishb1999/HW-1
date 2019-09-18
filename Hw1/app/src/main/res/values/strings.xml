@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hw1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nav_loc">Weather</string>
+    <string name="nav_map">Map</string>
+    <string name="home_prompt">Enter a Location to get Map and Weather</string>
+    <string name="query_hint">Search for a Location!</string>
+    <string name="humid">Humidity = %s %</string>
+    <string name="temp">Temperature: %s</string>
+    <string name="wind">Wind Speed = %s</string>
+    <string name="precipitation">Precipitation = %s</string>
+</resources>
